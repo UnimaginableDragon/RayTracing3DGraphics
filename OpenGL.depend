@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1472447596 source:d:\dropbox\academic\cg\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\dropbox\academic\cg\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489065693 source:d:\dropbox\academic\cg\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<vector>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\dropbox\academic\cg\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489859285 source:d:\dropbox\academic\cg\lab\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\dropbox\academic\cg\lab\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1489859285 source:d:\dropbox\academic\cg\lab\assignment 1\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\dropbox\academic\cg\lab\assignment 1\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1495805658 source:d:\dropbox\academic\cg\lab\raytracing\opengl_codeblocks\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<vector>
+	<windows.h>
+	<glut.h>
+	"bitmap_image.hpp"
+	"base.hpp"
+
+1392007564 d:\dropbox\academic\cg\lab\raytracing\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1495185168 d:\dropbox\academic\cg\lab\raytracing\opengl_codeblocks\header.h
+
+1495193647 d:\dropbox\academic\cg\lab\raytracing\opengl_codeblocks\header.hpp
+
+1495823970 d:\dropbox\academic\cg\lab\raytracing\opengl_codeblocks\base.hpp
+
+1495202005 d:\dropbox\academic\cg\lab\raytracing\opengl_codeblocks\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
